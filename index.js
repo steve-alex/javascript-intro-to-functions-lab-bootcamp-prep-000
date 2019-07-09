@@ -2,4 +2,10 @@ function shout(string){
   return string.toUpperCase()
 }
 
-fucntion 
+function whisper(string){
+  return string.toLowerCase()
+}
+
+function logShout(string){
+  return string
+}
